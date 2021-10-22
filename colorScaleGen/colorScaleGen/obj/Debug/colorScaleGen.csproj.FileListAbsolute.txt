@@ -1,0 +1,6 @@
+/Users/alexanderberg/RiderProjects/colorScaleGen/colorScaleGen/bin/Debug/colorScaleGen.exe
+/Users/alexanderberg/RiderProjects/colorScaleGen/colorScaleGen/bin/Debug/colorScaleGen.pdb
+/Users/alexanderberg/RiderProjects/colorScaleGen/colorScaleGen/obj/Debug/colorScaleGen.csprojAssemblyReference.cache
+/Users/alexanderberg/RiderProjects/colorScaleGen/colorScaleGen/obj/Debug/colorScaleGen.csproj.CoreCompileInputs.cache
+/Users/alexanderberg/RiderProjects/colorScaleGen/colorScaleGen/obj/Debug/colorScaleGen.exe
+/Users/alexanderberg/RiderProjects/colorScaleGen/colorScaleGen/obj/Debug/colorScaleGen.pdb
